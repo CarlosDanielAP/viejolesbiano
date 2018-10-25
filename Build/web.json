@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
-"productName": "platzipong",
-"dataUrl": "hola.data.unityweb",
-"wasmCodeUrl": "hola.wasm.code.unityweb",
-"wasmFrameworkUrl": "hola.wasm.framework.unityweb",
+"productName": "dinomemes",
+"dataUrl": "web.data.unityweb",
+"wasmCodeUrl": "web.wasm.code.unityweb",
+"wasmFrameworkUrl": "web.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
